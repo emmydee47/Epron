@@ -13755,7 +13755,7 @@ a.color-icon.border-icon:hover {
 }
 
 #switcher span[class^="rt-icon2-"] {
-	display: block;
+	display: none;
 	position: absolute;
 	width: 60px;
 	height: 60px;
@@ -13882,7 +13882,7 @@ a.color-icon.border-icon:hover {
 }
 
 #switcher-patterns a {
-	display: block;
+	display: none;
 	line-height: 1;
 	height: 40px;
 	width: 40px;
